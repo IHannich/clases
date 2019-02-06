@@ -26,3 +26,6 @@ pepita = Dino("pepa", "azul")
 
 #agregarle una propiedad color a la clase Dino, y que salude
 #diciendo su nombre y de que color es el dinosaurio
+
+
+
